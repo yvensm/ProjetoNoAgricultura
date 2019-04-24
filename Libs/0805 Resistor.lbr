@@ -105,16 +105,16 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="TE_purchase_URL" value="https://www.te.com/usa-en/product-5-1879509-5.html?te_bu=Cor&amp;te_type=disp&amp;te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&amp;elqCampaignId=32493"/>
-<attribute name="Price" value="None"/>
 <attribute name="MP" value="CRGH0805F392R"/>
+<attribute name="Package" value="0805 TE Connectivity"/>
+<attribute name="Availability" value="Unavailable"/>
+<attribute name="Price" value="None"/>
+<attribute name="Comment" value="5-1879509-5"/>
+<attribute name="MF" value="TE Connectivity"/>
 <attribute name="Description" value="
 Res Thick Film 0805 392 Ohm 1% 1/3W ±100ppm/°C Molded SMD SMD T/R
 "/>
-<attribute name="Availability" value="Unavailable"/>
-<attribute name="Comment" value="5-1879509-5"/>
-<attribute name="Package" value="0805 TE Connectivity"/>
-<attribute name="MF" value="TE Connectivity"/>
+<attribute name="TE_purchase_URL" value="https://www.te.com/usa-en/product-5-1879509-5.html?te_bu=Cor&amp;te_type=disp&amp;te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&amp;elqCampaignId=32493"/>
 </technology>
 </technologies>
 </device>
