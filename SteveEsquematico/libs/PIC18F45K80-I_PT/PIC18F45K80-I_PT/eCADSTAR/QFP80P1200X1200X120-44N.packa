@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PIC18F45K80-I_PT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "QFP80P1200X1200X120-44N")
+        (spec "System")
+    )
+)
