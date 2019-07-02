@@ -350,11 +350,16 @@ UsedLibraryUrn="urn:adsk.eagle:library:176"
 UsedLibraryUrn="urn:adsk.eagle:library:177"
 UsedLibrary="/home/lsd/EAGLE/libraries/PRIMEIRABIB.lbr"
 UsedLibrary="libs/Capacitores/0805YC104KA76A.lbr"
+UsedLibrary="/home/lsd/EAGLE/libraries/NoAgricultura/PIC18F45K80-I_PT.lbr"
+UsedLibrary="libs/Capacitores/CAPTANT-TYPEA.lbr"
+UsedLibrary="libs/M0810-2R5105-R.lbr"
+UsedLibrary="libs/Sensores/diy-modules.lbr"
+UsedLibrary="libs/Sensores/HTU21D.lbr"
 
 [Win_1]
 Type="Control Panel"
 Number=0
 
 [Desktop]
-Screen="3040 900"
+Screen="1440 900"
 Window="Win_1"

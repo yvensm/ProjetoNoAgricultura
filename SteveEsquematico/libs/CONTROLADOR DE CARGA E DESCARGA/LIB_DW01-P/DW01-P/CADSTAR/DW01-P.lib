@@ -1,0 +1,18 @@
+.DW01-P :1 ;hg
+SOT95P280X135-6N
+*STM IC
+*NGS
+*PLB 1="OD" 2="CS" 3="OC" 4="TD" 5="VCC" 6="GND"
+*MXP 6
+*DFN DW01-P
+~!Manufacturer_Name (Fortune Semiconductor Corporation)
+~!Manufacturer_Part_Number (DW01-P)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Link Datasheet (https://cdn.sparkfun.com/assets/learn_tutorials/2/5/1/DW01-P_DataSheet_V10.pdf)
+~!Height (1.35mm)
+~!3D_Model (DW01-P)
+DW01-P
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 
