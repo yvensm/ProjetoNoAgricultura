@@ -4156,9 +4156,9 @@ Source: &lt;a href="https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/680
 <junction x="60.198" y="372.872"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="RA3/VREF+/AN3"/>
-<wire x1="446.532" y1="341.122" x2="446.532" y2="362.458" width="0.1524" layer="91"/>
-<label x="446.278" y="362.966" size="0.6096" layer="95"/>
+<pinref part="IC2" gate="G$1" pin="RA0/CVREF/AN0/ULPWU"/>
+<wire x1="454.152" y1="341.122" x2="454.152" y2="354.838" width="0.1524" layer="91"/>
+<label x="453.898" y="355.346" size="0.6096" layer="95"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -4189,9 +4189,9 @@ Source: &lt;a href="https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/680
 <junction x="72.898" y="368.3"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="RA2/VREF-/AN2/C2INC"/>
-<wire x1="449.072" y1="341.122" x2="449.072" y2="359.918" width="0.1524" layer="91"/>
-<label x="449.072" y="360.426" size="0.6096" layer="95"/>
+<pinref part="IC2" gate="G$1" pin="RA1/AN1/C1INC"/>
+<wire x1="451.612" y1="341.122" x2="451.612" y2="357.378" width="0.1524" layer="91"/>
+<label x="451.612" y="357.632" size="0.6096" layer="95"/>
 </segment>
 </net>
 <net name="N$2" class="0">
@@ -4227,9 +4227,9 @@ Source: &lt;a href="https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/680
 <junction x="123.698" y="366.776"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="RA1/AN1/C1INC"/>
-<wire x1="451.612" y1="341.122" x2="451.612" y2="357.378" width="0.1524" layer="91"/>
-<label x="451.612" y="357.632" size="0.6096" layer="95"/>
+<pinref part="IC2" gate="G$1" pin="RA2/VREF-/AN2/C2INC"/>
+<wire x1="449.072" y1="341.122" x2="449.072" y2="359.918" width="0.1524" layer="91"/>
+<label x="449.072" y="360.426" size="0.6096" layer="95"/>
 </segment>
 </net>
 <net name="SW4" class="0">
@@ -4245,9 +4245,9 @@ Source: &lt;a href="https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/680
 <wire x1="156.464" y1="380.492" x2="156.464" y2="375.92" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="RA0/CVREF/AN0/ULPWU"/>
-<wire x1="454.152" y1="341.122" x2="454.152" y2="354.838" width="0.1524" layer="91"/>
-<label x="453.898" y="355.346" size="0.6096" layer="95"/>
+<pinref part="IC2" gate="G$1" pin="RA3/VREF+/AN3"/>
+<wire x1="446.532" y1="341.122" x2="446.532" y2="362.458" width="0.1524" layer="91"/>
+<label x="446.278" y="362.966" size="0.6096" layer="95"/>
 </segment>
 </net>
 <net name="OUT+" class="0">
